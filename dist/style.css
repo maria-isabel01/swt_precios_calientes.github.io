@@ -2480,7 +2480,8 @@ section p.big {
 section h2 {
     color: #ffffffee;
     font-size: 2em;
-    font-weight: 900
+    font-weight: 900;
+    text-transform: uppercase;
 }
 
 section h2 span {
@@ -2959,8 +2960,8 @@ section.ai {
     color: #fff;
     display: flex;
     flex-direction: column;
-    gap: 250px;
-    padding: 180px 0
+    gap: 6rem;
+    padding: 6rem 0;
 }
 
 section.ai .button {
@@ -4806,4 +4807,8 @@ footer .bottom .wrap img {
         flex-direction: column;
         row-gap: 25px
     }
+}
+
+.lados{
+    padding: 2rem;
 }

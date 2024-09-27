@@ -4902,3 +4902,7 @@ footer .bottom .wrap img {
 .LoopingCarousel_innerList__1lztm[data-animate=true]:hover .LoopingCarousel_listInstance__wdKJD {
     animation-play-state: paused
 }
+
+.font-weigth{
+    font-weight: 900;
+}
